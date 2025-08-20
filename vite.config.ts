@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/Salary-prediction-Web/',  
+  base: '/Salary-prediction-Web/', // 👈 repo ka exact naam
 });
